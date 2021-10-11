@@ -1,0 +1,15 @@
+.row {
+    height: calc(90vh / 11);
+}
+
+.black {
+    background-color: #333333;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
